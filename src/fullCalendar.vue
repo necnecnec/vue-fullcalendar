@@ -81,7 +81,7 @@
   </div>
 </template>
 <script type="text/babel">
-  // import langSets from './dataMap/langSets'
+  import langSets from './dataMap/langSets'
   import dateFunc from './components/dateFunc'
   import moment from 'moment';
   import EventCard from './components/eventCard.vue';
